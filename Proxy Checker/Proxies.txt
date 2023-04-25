@@ -1,0 +1,5 @@
+# Socks5 Format
+# USERNAME:PASSWORD@ADDRESS:PORT
+
+# Http(s) Format
+# The format for HTTP(S) proxies is as follows: ip_address:port. For example, 123.456.78.90:8080
