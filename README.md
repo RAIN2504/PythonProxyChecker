@@ -6,7 +6,7 @@ Python Proxy Checker: Supports SOCKS5 and HTTP/HTTPS
 ## How to use?
 1: Run `Requirements.bat`
 
-2: Put your proxies into proxies.txt (More explanation in the txt)
+2: Put your proxies into `proxies.txt` (More explanation in the txt)
 
 3: Run `Checker.py` and write 'y' for best results
 
